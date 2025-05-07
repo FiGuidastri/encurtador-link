@@ -1,0 +1,5 @@
+./url_shortener/models/urls.db
+./url_shortener/__pycache__/
+./url_shortener/*.pyc
+./url_shortener/poetry.lock
+./url_shortener/pyproject.toml
